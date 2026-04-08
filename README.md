@@ -260,7 +260,7 @@ To ensure transparency and reproducibility, the source code of this work is publ
 
 ## 🙏 Acknowledgements
 
-This work is built upon RTDETR and related open-source research. We sincerely thank the authors and contributors for their valuable work.
+This work was supported by the National Natural Science Foundation of China (Grant No. 32271781). We are also grateful to the contributors of the RTDETR framework and other open-source projects that made this research possible.
 
 ---
 
