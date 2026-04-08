@@ -99,7 +99,7 @@ pip install -r requirements.txt
 
 We conduct experiments on **E-SFDDD**, which is constructed from:
 
-* a subset of the publicly available **State Farm Distracted Driver Detection (SFDDD)** dataset
+* a subset of the publicly available **State Farm Distracted Driver Detection (SFDDD)** dataset ([official source](https://www.kaggle.com/c/state-farm-distracted-driver-detection))
 * additional in-cabin samples collected by the authors
 
 The dataset contains five classes:
