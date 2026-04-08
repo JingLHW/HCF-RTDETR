@@ -1,0 +1,8 @@
+path: dataset
+
+train: images/train
+val: images/val
+test: images/test
+
+nc: 5
+names: ["Normal Driving", "Phone Use", "Calling", "Drinking", "Operating Device"]
