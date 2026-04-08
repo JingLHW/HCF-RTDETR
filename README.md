@@ -245,7 +245,7 @@ If you find this work useful, please consider citing our paper:
   note={Submitted to The Visual Computer}
 }
 
-}
+
 ```
 
 ---
