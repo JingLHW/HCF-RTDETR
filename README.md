@@ -5,6 +5,7 @@ This repository provides the official implementation of our proposed method **HC
 This repository corresponds to the following paper:
 
 **Enhanced Detection of Distracted Driving Behaviors via Cross-Scale Feature Fusion in RTDETR**
+
 *Submitted to The Visual Computer*
 
 ---
