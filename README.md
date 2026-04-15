@@ -1,12 +1,12 @@
-# Enhanced Detection of Distracted Driving Behaviors via Cross-Scale Feature Fusion in RTDETR
+# HCF-RTDETR: High-Frequency Guided Cross-Scale Fusion for Distracted Driving Detection
 
 This repository provides the official implementation of our proposed method **HCF-RTDETR**.
 
 This repository corresponds to the following paper:
 
-**Enhanced Detection of Distracted Driving Behaviors via Cross-Scale Feature Fusion in RTDETR**
+**HCF-RTDETR: High-Frequency Guided Cross-Scale Fusion for Distracted Driving Detection**
 
-*Submitted to The Visual Computer*
+
 
 ---
 
