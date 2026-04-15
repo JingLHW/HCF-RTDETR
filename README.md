@@ -212,11 +212,12 @@ If you find this work useful, please consider citing our paper:
 
 ```bibtex
 @misc{huang2026hcfrtdetr,
-  title={Enhanced Detection of Distracted Driving Behaviors via Cross-Scale Feature Fusion in RTDETR},
+  title={HCF-RTDETR: High-Frequency Guided Cross-Scale Fusion for Distracted Driving Detection},
   author={Yinglai Huang and Jing Wang and Wentao Gao and Xinyi Dong},
   year={2026},
-  note={Submitted to The Visual Computer}
+  note={Submitted to Image and Vision Computing}
 }
+
 
 
 ```
